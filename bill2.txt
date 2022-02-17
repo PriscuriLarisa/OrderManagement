@@ -1,0 +1,4 @@
+Comanda numarul 2
+Client: George Udvescu
+Produs: Sampon regenerant        Cantitate :2
+Pret total: 76.0
